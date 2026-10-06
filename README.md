@@ -24,4 +24,4 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 Nome: Jose Barichello Neto
 RA: 2026109424
-URL: https://2bim-avalia1-4f4.pages.dev
+URL: https://desenho-assinado-jbn.pages.dev
